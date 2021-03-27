@@ -3,7 +3,7 @@
   "version": "0.3.8",
   "private": true,
   "engines": {
-    "yarn": ">=1.22.0"
+    "yarn": ">=1.21.1"
   },
   "scripts": {
     "api": "lerna run api",
